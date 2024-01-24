@@ -13,3 +13,5 @@ Limitaciones:
 Futuros trabajos:
 1. Se puede incorporar datos de precios de compra/venta de los inmuebles en los diferentes barrios y hacer una comparativa entre el precio de CV (inversión) y la rentabilidad promedio por metro cuadrado que se puede esperar. // Otro enfoque puede ser el precio de CV y detectar un inmueble similar (en m2, camas y baños) para estimaciones de rentabilidad.
 2. Añadir un estudio entre las amenities que tienen los pisos y cómo influyen en el precio del inmueble. -> Cuánto más se cobra por tener secadora, secador de pelo y calefacción vs. no tenerlo, en función del grupo -clúster-.
+
+Con los datos contenidos en '02. otros datasets' al final no me ha dado tiempo para hacer ningún análisis posterior por el trabajo. Me queda pendiente para posteriori seguir practicando.
